@@ -1,0 +1,15 @@
+.EightBall {
+    height: 150px;
+    width: 150px;
+    display: flex;
+    margin: 50px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    color:honeydew;
+    box-shadow: 0 0 10px black;
+    text-align: center;
+    cursor: pointer;
+
+
+}
